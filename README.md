@@ -8,4 +8,4 @@ TEAM "AIR"
 Aarhaam Jain    - DCH-8181
 Samanu Puri     - DCH-8234
 Lakshay Madhok  - DCH-8233
-Deepsiya Arora  - DCH-8187
+
